@@ -1,39 +1,6 @@
-{
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
-}
+[{"question":"The dominant mode of a waveguide depends on:","answers":{"a":"the shape of the waveguide","b":"the power level of the signal","c":"the point of signal injection","d":"none of the above"},"correctAnswer":"a"},
+{"question":"A TEE connector used with waveguides is:","answers":{"a":"an H-plane TEE","b":"an E-plane TEE","c":"a “magic” TEE","d":"all of the above"},"correctAnswer":"d"},
+{"question":"Waveguides are generally not made of","answers":{"a":"Copper","b":"Bronze","c":"Aluminium","d":"Any of the above material"},"correctAnswer":"a"},
+{"question":"Waveguides are generally not used for frequencies","answers":{"a":"below 1 GHz","b":"below 10 GHz","c":"below 50 GHz","d":"below 150 GHz"},"correctAnswer":"a"},
+{"question":"In a series-tee, the axis of the side-arm","answers":{"a":"is parallel to the H-field planes of the main waveguide","b":"is parallel to the E-field planes of the main waveguide","c":"is normal to the E-field of the main waveguide","d":"none of these"},"correctAnswer":"b"}]
+
