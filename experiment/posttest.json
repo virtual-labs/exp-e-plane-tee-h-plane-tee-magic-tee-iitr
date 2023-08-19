@@ -1,39 +1,7 @@
-{
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
-}
+[{"question":"In a shunt-tee, the axis of the side-arm is in","answers":{"a":"The plane of E-field of main waveguide","b":"The plane of H-field of main waveguide","c":"A plane normal to the H-field of the main waveguide","d":"None of these"},"correctAnswer":"b"},
+{"question":"In an H-plane tee","answers":{"a":"All the three arms lie in the plane of electric field","b":"All the three arms lie in the plane of magnetic field","c":"All the three arms lie in a plane perpendicular to magnetic field","d":"None of these"},"correctAnswer":"b"},
+{"question":"What type of waveguide is widely used?","answers":{"a":"Circular","b":"Ridged","c":"Flexible","d":"Rectangular"},"correctAnswer":"d"},
+{"question":"Waveguides act as _________.","answers":{"a":"low-pass filter","b":"bandpass filter","c":"high-pass filter","d":"band-stop filter"},"correctAnswer":"c"},
+{"question":"At microwave frequency waveguide becomes inefficient as result of skin effect and dielectric loss.","answers":{"a":"True","b":"False"},"correctAnswer":"b"}]
+
+
