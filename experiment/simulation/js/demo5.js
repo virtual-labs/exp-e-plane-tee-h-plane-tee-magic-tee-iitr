@@ -1,5 +1,6 @@
 var rightconnection=false;
 var datapoints1 = [];
+var knobFlag=false;
 jsPlumb.ready(function () {
 
     var instance,
@@ -226,6 +227,10 @@ document.getElementById("check11").addEventListener("click", function () {
                 icon:'success',
                 });
             
+                knobFlag=true;
+                document.getElementById('jog_dial_one').style.cursor='pointer';
+                document.getElementById('jog_dial_two').style.cursor='pointer';
+                
          document.getElementById("name").style.visibility = "visible";
          document.getElementById("cch").disabled= false;
          document.getElementById("check11").disabled= true;

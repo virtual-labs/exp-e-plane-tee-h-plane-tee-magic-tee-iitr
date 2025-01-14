@@ -1,6 +1,6 @@
 [{"question":"The dominant mode of a waveguide depends on:","answers":{"a":"the shape of the waveguide","b":"the power level of the signal","c":"the point of signal injection","d":"none of the above"},"correctAnswer":"a"},
 {"question":"A TEE connector used with waveguides is:","answers":{"a":"an H-plane TEE","b":"an E-plane TEE","c":"a “magic” TEE","d":"all of the above"},"correctAnswer":"d"},
-{"question":"Waveguides are generally not made of","answers":{"a":"Copper","b":"Bronze","c":"Aluminium","d":"Any of the above material"},"correctAnswer":"a"},
-{"question":"Waveguides are generally not used for frequencies","answers":{"a":"below 1 GHz","b":"below 10 GHz","c":"below 50 GHz","d":"below 150 GHz"},"correctAnswer":"a"},
+{"question":"What type of waveguide is widely used?","answers":{"a":"Circular","b":"Ridged","c":"Flexible","d":"Rectangular"},"correctAnswer":"d"},
+{"question":"Waveguides act as _________.","answers":{"a":"low-pass filter","b":"band-pass filter","c":"high-pass filter","d":"band-stop filter"},"correctAnswer":"c"},
 {"question":"In a series-tee, the axis of the side-arm","answers":{"a":"is parallel to the H-field planes of the main waveguide","b":"is parallel to the E-field planes of the main waveguide","c":"is normal to the E-field of the main waveguide","d":"none of these"},"correctAnswer":"b"}]
 

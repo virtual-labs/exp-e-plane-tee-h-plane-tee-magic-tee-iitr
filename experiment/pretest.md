@@ -20,21 +20,21 @@ C   a “magic” TEE
 <br>
 
 
-Q3. Waveguides are generally not made of<br>
+Q3. What type of waveguide is widely used?<br>
 
-<b>A   Copper</b>  
-B   Bronze  
-C   Aluminium  
-D   Microwave oscillators  
+A circular  
+B ridged  
+C flexible  
+<b>D rectangular</b> 
 <br>
 
 
-Q4. Waveguides are generally not used for frequencies<br>
+Q4. Waveguides act as__________.<br>
   
-<b>A   below 1 GHz</b>  
-B   below 10 GHz  
-C   below 50 GHz  
-D   below 150 GHz  
+A low-pass filter  
+B band-pass filter  
+<b>C high-pass filter</b>  
+D band-stop filter  
 <br>
 
 
