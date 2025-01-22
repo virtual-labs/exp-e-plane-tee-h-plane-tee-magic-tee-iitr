@@ -18,20 +18,21 @@ C   All the three arms lie in a plane perpendicular to magnetic field
 D   None of these    
 <br>  
 
-Q3. What type of waveguide is widely used?<br>
-  
-A   Circular  
-B   Ridged  
-C   Flexible  
-<b>D   Rectangular</b>  
+Q3. Waveguides are generally not made of<br>
+
+A   Copper  
+B   Bronze  
+C   Aluminum  
+<b>D   Microwave oscillators</b>  
 <br>
 
-Q4. Waveguides act as \_\_\_\_\_\_\_\_\_.<br>
- 
-A   low-pass filter  
-B   bandpass filter  
-<b>C   high-pass filter</b>  
-D   band-stop filter  
+
+Q4. Waveguides are generally not used for frequencies<br>
+  
+<b>A   below 1 GHz</b>  
+B   below 10 GHz  
+C   below 50 GHz  
+D   below 150 GHz  
 <br>
 
 Q5. At microwave frequency waveguide becomes inefficient as result of skin effect and dielectric loss.<br>
