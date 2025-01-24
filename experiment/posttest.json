@@ -1,0 +1,7 @@
+[{"question":"In a shunt-tee, the axis of the side-arm is in","answers":{"a":"The plane of E-field of main waveguide","b":"The plane of H-field of main waveguide","c":"A plane normal to the H-field of the main waveguide","d":"None of these"},"correctAnswer":"b"},
+{"question":"In an H-plane tee","answers":{"a":"All the three arms lie in the plane of electric field","b":"All the three arms lie in the plane of magnetic field","c":"All the three arms lie in a plane perpendicular to magnetic field","d":"None of these"},"correctAnswer":"b"},
+{"question":"Waveguides are generally not made of","answers":{"a":"Copper","b":"Bronze","c":"Aluminum","d":"Microwave oscillators"},"correctAnswer":"d"},
+{"question":"Waveguides are generally not used for frequencies","answers":{"a":"below 1 GHz","b":"below 10 GHz","c":"below 50 GHz","d":"below 150 GHz"},"correctAnswer":"a"},
+{"question":"At microwave frequency waveguide becomes inefficient as result of skin effect and dielectric loss.","answers":{"a":"True","b":"False"},"correctAnswer":"b"}]
+
+
